@@ -1,5 +1,5 @@
 # quizApp
-test Quiz App
+This is  simple JavaScripts.
 
 to view this Repo please click the link below :
 
